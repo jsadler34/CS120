@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GAWriteLineJake/1.0.0": {
+        "runtime": {
+          "GAWriteLineJake.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GAWriteLineJake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
