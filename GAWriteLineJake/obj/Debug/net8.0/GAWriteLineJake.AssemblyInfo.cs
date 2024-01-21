@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GAWriteLineJake")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1ef15167fe97a3edca0723fc5e781d99d26c593")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+136b8b99dfae5ffb8e65a0ac0d2bc77336f80371")]
 [assembly: System.Reflection.AssemblyProductAttribute("GAWriteLineJake")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GAWriteLineJake")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
